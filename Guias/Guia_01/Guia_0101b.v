@@ -1,5 +1,5 @@
 /*
-    Arquitetura de Computadores I - Guia_01.txt
+    Arquitetura de Computadores I - Guia_01
     793605 - Caio Faria Diniz
 */
 
